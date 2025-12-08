@@ -4,7 +4,6 @@ console.log('Hello!');
 nombre, imagen, tipo, altura y peso
 */
 
-const tittle = document.getElementById('tittle-js');
 const text = document.getElementById('text-js');
 
 const button = document.getElementById('get-pokemon');
